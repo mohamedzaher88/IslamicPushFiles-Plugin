@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+id="IslimcPushFiles.smartselwady.com"
+version="1.0">
+
+  <name>IslimcPushFiles</name>
+
+  <description>
+    IslimcPushFiles Plugin By Smarts Elwady
+  </description>
+
+  <license>IslimcPushFiles Plugin</license>
+
+  <engines>
+    <engine name="cordova" version=">=3.0.0"/>
+  </engines>
+
+
+<platform name="ios">
+
+<source-file src="src/ios/push1.mp3" />
+<source-file src="src/ios/push2.mp3" />
+<source-file src="src/ios/push3.mp3" />
+<source-file src="src/ios/push4.mp3" />
+<source-file src="src/ios/push5.mp3" />
+<source-file src="src/ios/push6.mp3" />
+<source-file src="src/ios/push7.mp3" />
+<source-file src="src/ios/push8.mp3" />
+<source-file src="src/ios/push9.mp3" />
+<source-file src="src/ios/push10.mp3" />
+<source-file src="src/ios/push11.mp3" />
+<source-file src="src/ios/push12.mp3" />
+<source-file src="src/ios/push13.mp3" />
+<source-file src="src/ios/push14.mp3" />
+
+
+</platform>
+
+
+</plugin>
