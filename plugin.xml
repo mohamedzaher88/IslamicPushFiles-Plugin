@@ -26,8 +26,9 @@ version="1.0">
         <param name="ios-package" value="IslamicPushFiles"/>
       </feature>
     </config-file>
+	
+<asset src="src/ios/push1.mp3" target="../push1.mp3" />
 
-<source-file src="src/ios/CDVNotification.bundle" framework="true" />
 
 
 </platform>
