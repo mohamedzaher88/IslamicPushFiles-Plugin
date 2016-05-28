@@ -26,21 +26,21 @@ version="1.0">
         <param name="ios-package" value="IslamicPushFiles"/>
       </feature>
     </config-file>
-	
-	<source-file src="src/ios/push1.mp3" target-dir="/*" />
-	<source-file src="src/ios/push2.mp3" target-dir="/*" />
-	<source-file src="src/ios/push3.mp3" target-dir="/*" />
-	<source-file src="src/ios/push4.mp3" target-dir="/*" />
-	<source-file src="src/ios/push5.mp3" target-dir="/*" />
-	<source-file src="src/ios/push6.mp3" target-dir="/*" />
-	<source-file src="src/ios/push7.mp3" target-dir="/*" />
-	<source-file src="src/ios/push8.mp3" target-dir="/*" />
-	<source-file src="src/ios/push9.mp3" target-dir="/*" />
-	<source-file src="src/ios/push10.mp3" target-dir="/*" />
-	<source-file src="src/ios/push11.mp3" target-dir="/*" />
-	<source-file src="src/ios/push12.mp3" target-dir="/*" />
-	<source-file src="src/ios/push13.mp3" target-dir="/*" />
-	<source-file src="src/ios/push14.mp3" target-dir="/*" />
+
+	<asset src="src/ios/push1.mp3" target="push1.mp3" />
+	<asset src="src/ios/push2.mp3" target="push2.mp3" />
+	<asset src="src/ios/push3.mp3" target="push3.mp3" />
+	<asset src="src/ios/push4.mp3" target="push4.mp3" />
+	<asset src="src/ios/push5.mp3" target="push5.mp3" />
+	<asset src="src/ios/push6.mp3" target="push6.mp3" />
+	<asset src="src/ios/push7.mp3" target="push7.mp3" />
+	<asset src="src/ios/push8.mp3" target="push8.mp3" />
+	<asset src="src/ios/push9.mp3" target="push9.mp3" />
+	<asset src="src/ios/push10.mp3" target="push10.mp3" />
+	<asset src="src/ios/push11.mp3" target="push11.mp3" />
+	<asset src="src/ios/push12.mp3" target="push12.mp3" />
+	<asset src="src/ios/push13.mp3" target="push13.mp3" />
+	<asset src="src/ios/push14.mp3" target="push14.mp3" />
 
 </platform>
 
